@@ -51,6 +51,7 @@
     <Compile Include="IPoint.cs" />
     <Compile Include="ISet.cs" />
     <Compile Include="IVectorSpace.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
